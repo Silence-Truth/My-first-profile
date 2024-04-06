@@ -1,0 +1,99 @@
+body{
+    background-image: url("https://i.pinimg.com/564x/5c/c5/08/5cc508c15d68865125f4c96e050229ba.jpg");
+    background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;      
+}
+h1{
+    color:aquamarine;
+    text-align: center;
+    font-style: italic;
+}
+h2{
+    color: chartreuse;
+    text-align: center;
+    font-style: italic;
+}
+#lg{
+    font-size: 60px;
+}
+h3{
+    color:orange;
+    text-align: left;
+    top:100px;
+    font-size: 40px;
+    
+   
+}
+h4{
+    color:chartreuse;
+    text-align:center;
+    font-size: 40px;
+}
+#menu{
+    width: 500px;
+    height: 500px;
+}
+
+#m2{
+    position:center;
+  top: 500px;
+  width: 500px;
+    height: 500px;
+}
+#m3{
+    position: absolute;
+    top: 550px;
+    width: 500px;
+      height: 500px;
+
+}
+h5{
+    position: relative;
+    color: chartreuse;
+    text-align: right;
+    font-size: 40px;
+}
+h6{
+    text-align: left;
+    color:whitesmoke;
+    font-size: larger;
+}
+h7{
+    text-align: left;
+    color:whitesmoke;
+    font-size: larger;
+    font-size: 40px;
+}
+h8{
+    text-align: center;
+    color:whitesmoke;
+    font-size: larger;
+    font-size: 40px;
+    right:1000px;
+}
+h9{
+    text-align:absolute;
+    color:whitesmoke;
+    font-size: larger;
+    font-size: 40px;
+}
+}
+h10{
+    
+    color: aliceblue;
+}
+h11{
+    text-align: left;
+    background-image:url("https://www.shutterstock.com/image-illustration/circles-stars-yellow-abstract-background-600nw-59101012.jpg");
+    width:60%;
+    font-size:larger;
+}
+#m4,#m5{
+    width: 500px;
+      height: 500px
+}
+#m6{
+    width: 400px;
+      height: 400px
+}
